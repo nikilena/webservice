@@ -1,0 +1,10 @@
+management\SendEmail.class
+management\TestDaten.class
+model\ToDo.class
+serialization\ItemSerialisierung.class
+management\ItemManagement.class
+serialization\ToDoSerialisierung.class
+model\Item.class
+notificationService\NotificationService.class
+com\mkyong\rest\HelloWorldService.class
+management\TodoManagement.class
